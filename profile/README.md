@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center"> 
-  <img src="https://www.vandyke.com/images/assets/product-securecrt.png" alt="SecureCRT Banner" width="100%" />
+  <img src="https://www.vandyke.com/images/assets/product-securecrt.png" alt="SecureCRT Banner" width="20%" />
 </p>
 
 <h1 align="center">⚡ SecureCRT Unlock Tool</h1>
